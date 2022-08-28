@@ -1,0 +1,3 @@
+/Users/yifan_li/Documents/CS/C++_Learning/Snake/cmake-build-debug/CMakeFiles/Snake.dir
+/Users/yifan_li/Documents/CS/C++_Learning/Snake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yifan_li/Documents/CS/C++_Learning/Snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
